@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **guiougou.nathan@gmail.com**
 
-- ⚡ Fun fact **I win against AI on chess**
+- ⚡ Fun fact **I win against AI on chess and I **
+             **I started learning programming before ChatGPT was even a thing. I developed my skills through trial and error, reading documentation, and solving real problems on my own, without relying on AI tools. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
