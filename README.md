@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Guiougou</h1>
-<h3 align="center">A passionate frontend and backend developer from Canada</h3>
+<h3 align="center">A passionate frontend and backend developer from Canada (Québec)</h3>
 
 - 🔭 I’m currently working on **Python** and **Solidity**
 
